@@ -2,7 +2,7 @@ fastapi
 uvicorn
 pandas
 pyarrow
-streamlit==1.12.0
+streamlit
 plotly
 requests
-altair==4.2.2
+altair
