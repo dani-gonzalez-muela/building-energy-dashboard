@@ -10,7 +10,7 @@ import os
 PLOTS_PATH = "plots"
 
 st.set_page_config(
-    page_title="Building Energy Insights | DNV", 
+    page_title="Building Energy Insights", 
     page_icon="🏢",
     layout="wide",
     initial_sidebar_state="collapsed"
